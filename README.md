@@ -1,4 +1,3 @@
-Mr.T_TV
-=======
+#Simple Addon in Python for XBMC
 
-An add-on for XBMC. 
+This is a sample addon written in Python using xbmc libraries 
